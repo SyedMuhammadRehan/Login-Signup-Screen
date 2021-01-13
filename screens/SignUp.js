@@ -215,9 +215,3 @@ const styles = StyleSheet.create({
     color: '#8E0E00',
   },
 });
-//test
-1
-2
-3
-4
-5
